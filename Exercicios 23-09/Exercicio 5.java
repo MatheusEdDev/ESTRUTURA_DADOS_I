@@ -1,0 +1,1 @@
+Em resumo, a principal diferença é o propósito: o Vector serve como uma lista dinâmica, enquanto o Stack serve como uma pilha. No entanto, ambas as classes são consideradas legadas, e existem alternativas mais eficientes no ecossistema Java atual.
